@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="timeconMT",
-    version="0.0.1",
+    version="0.0.2",
     author="Cole Malphrus",
     author_email="cole@malphrus.tech",
     description="time converter utilities",
