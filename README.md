@@ -1,13 +1,13 @@
-#timeconMT
+# timeconMT
 A simple time conversion by Malphrus Tech
 
-##Usage
+## Usage
 
-###import
+### import
 ```python
 from timeconMT.timecon import  convert
 ```
-###use
+### use
 ```python
 time = convert("12:30:00")
 #returns a dictionary
